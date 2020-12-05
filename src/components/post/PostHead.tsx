@@ -116,7 +116,7 @@ const PostHead: React.FC<PostHeadProps> = ({
         <h4>{introduction}</h4>
         <SubInfo>
           <div className="information">
-            <Image
+            {/* <Image
               className="author-image"
               fixed={image}
               alt={author}
@@ -126,7 +126,7 @@ const PostHead: React.FC<PostHeadProps> = ({
                 marginRight: `0.75rem`,
                 borderRadius: `100%`,
               }}
-            />
+            /> */}
             <span className="username">{author}</span>
             <span className="separator">&middot;</span>
             <span>{date}</span>

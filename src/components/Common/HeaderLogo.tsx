@@ -7,9 +7,9 @@ const createFallbackTitle = (username: string | null) => {
   if (!username) return null;
   const lastChar = username.slice(-1).toLowerCase();
   if (lastChar === 's') {
-    return `${username}`;
+    return `${username} En Galvez`;
   }
-  return `${username}`;
+  return `${username} En Galvez`;
 };
 
 export const flutter = keyframes`
