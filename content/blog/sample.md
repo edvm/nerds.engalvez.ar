@@ -1,12 +1,15 @@
 ---
-title: 'Sample'
-date: 2020-03-05 16:21:13
-category: 'development'
-image: './development/images/gatsby.jpg'
+title: 'Tecno en Galvez está online!'
+date: 2020-12-05 01:01:13
+category: 'anuncios'
+image: './images/gatsby.jpg'
 ---
 
-# Getting Started 😎
+# Bienvenidos a Tecno En Galvez 😎
 
-## Sample
+Para quienes nos visitan por primer vez, bienvenidos! 
 
-Sample
+La idea de este espacio online es:
+
+- Poder compartir información (noticias, escribir un post, etc.) 
+- Anunciar las reuniones mensuales
